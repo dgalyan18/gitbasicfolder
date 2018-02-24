@@ -1,3 +1,3 @@
 Hello Git
 
-There is second line for git.
+There is second line for change 2.
